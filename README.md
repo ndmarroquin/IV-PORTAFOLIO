@@ -22,7 +22,7 @@
 - Índice.
 - Objetivos.
 - Wireframes: 
-1.  [Portada ERP](http://https://ndmarroquin.github.io/IV-1-base-sitio-web/ "Portada ERP").
+1.  [Portada ERP](http://https://ndmarroquin.github.io/IV-1-base-sitio-web/ "Portada ERP") .
 2. [Login](http://https://ndmarroquin.github.io/new-loginv2/ "Login").
 3. [Login v2](http://https://ndmarroquin.github.io/new-login-v3/ "Login v2").
 4. [Profile](http://https://ndmarroquin.github.io/IV-5-wireframe-04_profile/ "Profile"). 
